@@ -176,10 +176,11 @@ Before you begin, ensure you have the following installed:
 Follow these steps to install and set up the emulator:
 
 1. **Clone the Repository**:
-   Clone the project repository to your local machine using Git:
-   ```bash
-   git clone https://github.com/yourusername/assembly-emulator.git
-  ```
+Clone the project repository to your local machine using Git:
+```bash
+git clone https://github.com/yourusername/assembly-emulator.git
+```
+
 
 2. **Navigate to the Project Directory**:
 Move into the project directory:
